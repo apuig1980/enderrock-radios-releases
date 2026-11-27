@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "fecha": "2026-11-26",
-  "actualizacion": "versiones/EnderrockRadios-1.0.1-actualizacion.zip",
-  "sha256": "9b25e81b330016c814d4ab99c0ea610d240649903bc2d1cfba934fa39da35b7c",
-  "notas": "App firmada en un Mac. La base de dades inicial va a part i es carrega des de la pantalla de benvinguda o des de Configuració."
+  "version": "1.0.2",
+  "fecha": "2026-11-27",
+  "actualizacion": "versiones/EnderrockRadios-1.0.2-actualizacion.zip",
+  "sha256": "b3fd3fdbf3bc0b18a5d24d1b57b4b385def47adeca00a87c1f9933806218953c",
+  "notas": "Filtres per franja horària i per discogràfica, pestanya «Per hores», l'etiqueta de català de BMAT passa a manar, verificació amb lletres (LRCLIB) i el connector de Claude admet franja i discogràfica."
 }
